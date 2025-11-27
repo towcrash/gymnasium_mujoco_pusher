@@ -1,0 +1,11 @@
+gymnasium
+--only-binary=:all:
+numpy==1.21.3
+pandas
+matplotlib
+torch
+scikit-learn
+keras
+imageio
+ipython
+mujoco==2.3.7
